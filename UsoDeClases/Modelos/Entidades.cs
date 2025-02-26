@@ -35,7 +35,7 @@ namespace UsoDeClases.Modelos
         // Métodos
         public string MostrarDatos()
         {
-            return $"Nombre: {this.nombres}\nApellidos: {this.apellidos}\nEdad: {this.edad}\nEmail: {this.email}\nTelefono: {this.telefono}\nDireccion: {this.direccion}\n";
+            return $"Nombre: {this.nombres}\nApellidos: {this.apellidos}\nDocumento: {this.documento}\nEdad: {this.edad}\nEmail: {this.email}\nTelefono: {this.telefono}\nDireccion: {this.direccion}\n";
         }
     }
 
